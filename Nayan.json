@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "MROBA",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "OBABY",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "61563441981817",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61563441981817",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61563441981817"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
